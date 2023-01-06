@@ -1,7 +1,17 @@
 # C-numbers-sorter
-Program expects file name which has to be sorted as second parameter.
-It sorts separately every line of the given file.
+<p>
+  Program expects file name which has to be sorted as second parameter.
+</p>
+<p>
+  It sorts separately every line of the given file.
+</p>
 
-example ("input.txt" you can find in the repository):
-gcc main.c sorter.c
-./a.out input.txt
+<p>
+  example ("input.txt" you can find in the repository):
+</p>
+<p>
+  gcc main.c sorter.c
+</p>
+<p>
+  ./a.out input.txt
+</p>
